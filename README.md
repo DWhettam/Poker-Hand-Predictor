@@ -4,12 +4,11 @@ Feed-forward network developed in Python with Keras + TensorFlow backend used to
 
 
 Network Architecture:  
-  Feed Forward Network  
   2 Hidden layers, 512 nodes in each  
   Sigmoid activation function on hidden layers, softmax used on output layer  
   2 dropout layers used, although have little effect given the application  
   Loss function: binary crossentropy  
-  optimiser: RMSprop  
+  Optimiser: RMSprop  
   
 
 Designed and developed with:  
