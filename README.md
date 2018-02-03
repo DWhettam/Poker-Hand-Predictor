@@ -1,6 +1,6 @@
 # Poker-Hand-Predictor
 University of Hull Deep learning Winter School Group Project  
-Feed-forward network developed in Python with Keras + TensorFlow backend used to predict poker outcomes when given a hand of 5 cards.  
+Feed-forward network developed in Python with Keras + TensorFlow backend used to predict poker outcomes when given a hand of 5 cards. Uses the 'Poker Hand Dataset' from UCI Machine Learning Repository
 
 
 Network Architecture:  
