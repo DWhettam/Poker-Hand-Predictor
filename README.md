@@ -14,4 +14,4 @@ Network Architecture:
 Designed and developed with:  
   Aidan Fray  
   Adam Tunnicliffe  
-  Lydia (unkown)  
+  Lydia Maisanda 
